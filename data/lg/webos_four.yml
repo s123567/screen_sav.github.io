@@ -1,0 +1,49 @@
+- text: webos4_quickstart
+  img_fr:  images/fr/lg/os4/1.jpg
+  img_en:  images/en/lg/os4/1.jpg
+  anchor: initialization
+
+- text: webos4_timesetup
+
+- text: webos4_network
+  anchor: network_setup
+  img_fr:  images/en/lg/os4/3.jpg
+  img_en:  images/en/lg/os4/3.jpg
+
+- text: webos4_warning
+  warning: true
+
+- text: webos4_connection_type
+  img_fr:  images/en/lg/os4/4.jpg
+  img_en:  images/en/lg/os4/4.jpg
+
+- text: webos4_cable
+
+- text: webos4_wifi
+
+- text: webos4_ezsettings
+  anchor: application_install
+  img_fr:  images/en/lg/os4/6.jpg
+  img_en:  images/en/lg/os4/6.jpg
+
+- text: webos4_si_server
+  img_fr:  images/en/lg/os4/7.jpg
+  img_en:  images/en/lg/os4/7.jpg
+
+- text: webos4_url
+  img_fr:  images/en/lg/os4/8.jpg
+  img_en:  images/en/lg/os4/8.jpg
+
+- text: webos4_remote
+
+- text: webos4_restart
+
+- text: webos4_dj
+
+- text: webos4_code
+  img_fr:  images/en/lg/os4/10.jpg
+  img_en:  images/en/lg/os4/10.jpg
+  
+- text: webos4_address
+  img_en:  images/en/lg/os4/11.jpg
+  img_en:  images/en/lg/os4/11.jpg

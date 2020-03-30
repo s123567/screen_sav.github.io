@@ -1,0 +1,86 @@
+a {
+  color: inherit;
+  text-decoration: none;
+ }
+
+body {
+  background-color: white;
+  color: #4A4B4F;
+  // mettre body 100vh height et webos version 80vh ?
+  height: 100vh;
+}
+
+ul {
+  list-style: none;
+}
+
+p {
+  margin-bottom: 0;
+}
+
+.dark {
+  background-color: #4A4B4F; 
+}
+
+.webos-versions {
+  display: flex;
+  height: 80vh;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.screens-versions {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.card-body {
+  background-color: #E6E7EB;
+  &.no-bg {
+    background-color: white !important;
+  }
+  &.os {
+    display: flex;
+    justify-content: center;
+    font-size: 2.2em;
+  }
+  &.search {
+    display: flex;
+    justify-content: center;
+    color: white;
+    background-color: #D45E30;
+  }
+  &.screen {
+    display: flex;
+    justify-content: center;
+    font-size: 1.9em;
+  }
+}
+
+
+.version {
+  padding: 0.5vh;
+}
+
+.feather {
+  width: 1em;
+  margin-top: -0.2em;
+  stroke: #000;
+  &.feather-phone-call, &.feather-settings, &.feather-home, &.feather-arrow-left-circle {
+    width: 2em;
+  }
+  &.feather-chevrons-up {
+    width: 2em;
+    stroke: #D45E30;
+  }
+  &.feather-phone-call {
+    stroke: #D45E30;
+  }
+
+  &.home-support, &.feather-arrow-left-circle {
+    stroke: #D45E30;
+  }
+}

@@ -1,0 +1,6 @@
+- version: WEBOS 2.0
+  link: webos2
+- version: WEBOS 3.0
+  link: webos3
+- version: WEBOS 4.0
+  link: webos4

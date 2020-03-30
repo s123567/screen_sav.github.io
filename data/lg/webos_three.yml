@@ -1,0 +1,45 @@
+- text: webos2_setup
+  img_fr:  images/fr/lg/os2/1.jpg
+  img_en:  images/en/lg/os2/1.jpg
+  anchor: initialization
+
+
+- text: webos2_advanced
+  img_fr:  images/fr/lg/os2/2.jpg
+  img_en:  images/en/lg/os2/2.jpg
+  anchor: network_setup
+
+- text: webos2_network
+  anchor: first-use
+  img_fr:  images/fr/lg/os2/3.jpg
+  img_en:  images/en/lg/os2/3.jpg
+
+- text: webos2_warning
+  warning: true
+
+- text: webos2_wired
+  img_fr:  images/fr/lg/os2/4.jpg
+  img_en:  images/en/lg/os2/4.jpg
+
+- text: webos2_wifi
+  img_fr:  images/fr/lg/os2/5.jpg
+  img_en:  images/en/lg/os2/5.jpg
+
+- text: webos2_warning
+
+- text: webos2_hidden
+  img_fr:  images/fr/lg/os2/6.jpg
+  img_en:  images/en/lg/os2/6.jpg
+
+- text: webos2_params
+
+- text: webos2_application
+  img_fr:  images/fr/lg/os2/7.jpg
+  img_en:  images/en/lg/os2/7.jpg
+  anchor: application_install
+
+- text: webos2_advanced_network
+
+- text: webos2_app_params
+  img_fr:  images/fr/lg/os2/8.jpg
+  img_en:  images/en/lg/os2/8.jpg

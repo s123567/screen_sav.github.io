@@ -1,0 +1,18 @@
+- name: 22 SM3B-BD
+  os: webos2
+- name: 32 SM5KE-BJ
+  os: webos4
+- name: 49 UH5E
+  os: webos4
+- name: 49 XS4F-BH
+  os: webos3
+- name: 55 UH5E
+  os: webos4
+- name: 55 XS4F-BH
+  os: webos3
+- name: 65 UH5E
+  os: webos4
+- name: 75 UH5E
+  os: webos4
+- name: 86 UH5E-BJ
+  os: webos4

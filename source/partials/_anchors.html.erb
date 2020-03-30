@@ -1,0 +1,7 @@
+<div id="index" class="">
+  <% data.index.each do |step| %>
+    <ul>
+      <li><span class="svg-icons"><%= partial 'images/icons/play' %></span><a href="#<%=step.anchor %>"><%= t(step.title) %></a></li>
+    </ul>
+  <% end %>
+</div>

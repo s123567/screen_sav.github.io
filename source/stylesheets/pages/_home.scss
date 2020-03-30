@@ -1,0 +1,92 @@
+.deepidoo-logo {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-direction: column;
+}
+
+.partners-logo {
+  display: flex;
+  height: 60vh;
+  justify-content: space-around;
+  align-items: center;
+  flex-direction: column;
+}
+
+.welcome_logo {
+  min-height: 120px;
+  height: 30%;
+  width: auto;
+}
+
+.os_logo {
+  object-fit: contain;
+  width: auto;
+  max-height: 120px;
+}
+
+.os-logo.tizen  {
+  width: 30%;
+  margin: 5% auto 0 ;
+}
+
+.logo_container {
+  display: flex;
+  justify-content: center;
+  max-height: 120px;
+  object-fit: contain;
+  margin: 2vh;
+
+}
+
+.home-support .btn {
+  border: 1px solid #D45E30;
+  color: #000;
+}
+
+.phone-contact {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-direction: column;
+}
+
+// Small devices (landscape phones, 576px and up)
+@media (min-width: 576px) {  }
+
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) {
+  .deepidoo-logo {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+
+ }
+
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) {
+  .partners-logo {
+    flex-direction: row;
+    height: 40vh;
+  }
+
+  .os-logo.tizen  {
+    width: 20% !important;
+  }
+
+}
+
+// Extra large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) {  }
+
+
+///////MOBILE STYLE/////////
+
+
+@media (max-width: 768px) {
+
+  .os_logo {
+    width: 100%;
+  }
+
+ }

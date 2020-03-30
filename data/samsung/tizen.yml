@@ -1,0 +1,50 @@
+- text: tizen_init
+  img_fr:  images/fr/samsung/tizen/init.jpg
+  img_en:  images/en/samsung/tizen/init.jpg
+  anchor: initialization
+
+- text: tizen_orientation
+  img_fr:  images/fr/samsung/tizen/orientation.jpg
+  img_en:  images/en/samsung/tizen/orientation.jpg
+
+- text: tizen_electric
+  img_fr:  images/fr/samsung/tizen/electric.jpg
+  img_en:  images/en/samsung/tizen/electric.jpg
+
+- text: tizen_network
+  anchor: network_setup
+
+- text: tizen_warning
+  warning: true
+
+- text: tizen_wifi
+  img_fr:  images/fr/samsung/tizen/wifi.jpg
+  img_en:  images/en/samsung/tizen/wifi.jpg
+
+- text: tizen_remote
+  img_fr:  images/fr/samsung/tizen/remote.jpg
+  img_en:  images/en/samsung/tizen/remote.jpg
+
+- text: tizen_date
+  img_fr:  images/fr/samsung/tizen/date.jpg
+  img_en:  images/en/samsung/tizen/date.jpg
+  anchor: application_install
+
+- text: tizen_periph
+  img_fr:  images/fr/samsung/tizen/periph.jpg
+  img_en:  images/en/samsung/tizen/periph.jpg
+
+- text: tizen_finish
+
+- text: tizen_config
+  img_fr:  images/fr/samsung/tizen/config.jpg
+  img_en:  images/en/samsung/tizen/config.jpg
+- text: tizen_url
+  img_fr:  images/fr/samsung/tizen/url.jpg
+  img_en:  images/en/samsung/tizen/url.jpg
+- text: tizen_install
+  img_fr:  images/fr/samsung/tizen/application.jpg
+  img_en:  images/en/samsung/tizen/application.jpg
+- text: tizen_code
+  img_fr:  images/fr/samsung/tizen/code.jpg
+  img_en:  images/en/samsung/tizen/code.jpg

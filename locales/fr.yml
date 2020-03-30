@@ -1,0 +1,110 @@
+fr:
+  compatible_screens: Ecrans compatibles
+  os_help: "Je ne connais pas mon OS"
+  find_os: "Cliquer sur le bouton Settings \n
+            => Quick Settings \n
+            => General \n
+            => A propos de cet écran \n
+            => webOS TV Version \n \n
+            Mon écran indique la version"
+  none: "Mon OS"
+  screen_list: "Ecrans disponibles"
+  first_use: Première utilisation de l'écran
+  network_setup: Configuration Réseau
+  initialization: Initialisation
+  application_install: L'application Deepidoo
+  back: Menu précédent
+  settings_button: Bouton SETTINGS
+  home_button: Bouton HOME
+  webos2: WEBOS 2
+  webos2_settings: "Vérfier toud d'abord que votre écran est bien connecté à internet \n
+                  Appuyez sur le bouton Settings, et allez dans le menu Paramètres Avancés \n"
+  webos2_network: "Allez dans RESEAU et vérifier que l'écran est bien indiqué comme connecté "
+  webos3: WEBOS 3
+
+  webos3_step1: "Configurez votre langue, continent, pays, et fuseau horaire"
+  webos3_step2: "Sélectionnez OFF pour les deux choix de rotation"
+  webos3_step3: "Configurez votre connexion internet, Ethernet ou Wifi"
+  webos3_warning: "Vous ne pourrez pas installer l' application, si votre écran n'est pas relié internet \n \n Ne reliez pas votre écran à un Wifi pour invités (ce genre de réseau n'a pas assez de permissions pour permettre un fonctionnement optimal) "
+  webos3_step4: "Si vous sélectionnez Wifi : Renseignez le mot de passez et connectez vous"
+  webos3_step5: "Réglez les heures d'allumage et d'extinction de l'écran (suivant les horaires du magasin)"
+  webos3_step6: "Pour configurer votre connexion Internet avec IP Fixes : Appuyez sur la touche SETTINGS puis rendez-vous dans ALL SETTINGS, Puis RESEAU et choisissez le type de connexion utilisé"
+  webos3_step7: "Choisissez EDIT et renseignez les informations Réseau (Voir avec le siège) puis confirmez"
+  webos3_step8: "Pour accéder au menu d'installation, appuyez en maintenant la touche SETTINGS jusqu’à l'apparition de la bulle. Entrez le code 8080 et pressez OK (Attention: Les chiffres n’apparaissent pas à l’écran)"
+  webos3_step9: "Paramétrages de l'installation : Sélectionnez « Local » pour « Application Launch Mode » et « On » pour « Fully Qualified Domain Name »"
+  webos3_step10: " Renseignez l'url suivante : 'http://webos.deepidoo.com/dj.ipk'"
+  webos3_step11: " Choisissez « IPK » dans « Application type ». Lancez l'application en choisissant « Remote » pour le paramètre « Local application Upgrade », puis confirmez"
+  webos3_step12: " Une fois l’application installée, appuyez sur la touche HOME et sélectionnez l’application appelée DJ"
+  webos3_step12: " Composez le code fournit par Deepidoo puis pressez la touche OK (Vérifiez que l’adresse qui s’affiche corresponde bien à votre magasin avec de valider)"
+  webos4: WEBOS 4
+  webos4_quickstart: "Choisissez le menu Démarrage rapide"
+  webos4_timesetup: "Choisissez votre langue\n
+                    Laissez les 2 types de rotations d'écran sur OFF\n
+                    IMPORTANT : Réglez l'écran à la bonne heure"
+  webos4_network: "Appuyez sur la touche SETTINGS, et allez dans le menu GENERAL, puis RESEAU"
+  webos4_warning: "Vous ne pourrez pas installer l' application, si votre écran n'est pas relié internet \n \n Ne reliez pas votre écran à un Wifi pour invités (ce genre de réseau n'a pas assez de permissions pour permettre un fonctionnement optimal) "
+  webos4_connection_type: "Choisissez le type de connection à paramétrer (câblée ou Wifi)"
+  webos4_cable: "Connexion Câblée\n
+                Si vous n'êtes pas sur un réseau avec IP fixes, vous serez connecté automatiquement en branchant votre câble\n
+                Sinon, renseignez les données réseaux indiqués par votre siège ou votre prestataire de service internet."
+  webos4_wifi: "Wifi : choisir le réseau désiré et rentrez son mot de passe"
+  webos4_ezsettings: "Appuyez sur la touche SETTING, allez dans EZ SETTINGS, puis SI SERVER SETTING"
+  webos4_si_server: "Choisissez SI SERVER SETTING"
+  webos4_url:
+    "Ajustez les paramètres suivants \n
+    => Nom de domaine qualifié = ON\n
+    => Entrez cette URL 'http://webos.deepidoo.com/dj/ipk' \n
+    => Application Launch Mode = LOCAL\n
+    => Application Type = IPK"
+  webos4_remote: "Cliquez sur DISTANT, puis confirmez"
+  webos4_restart: "Redémarrez votre écran avec votre télécommande"
+  webos4_dj: "Appuyez sur HOME button, trouvez l'icone DJ et appuyez sur OK"
+  webos4_code: "Un code à 4 chiffres vous sera demandé. Renseignez le code donné par Deepidoo"
+  webos4_address: "L'adresse de votre site est indiquée. Confirmez en appuyant sur la touche 0, SEULEMENT si l'adresse est correcte. Dans le cas contraire, appelez Deepidoo. NOTE: Si besoin, vous pouvez redémarrer cette étape en appuyant sur le bouton STOP"
+  sssp: SSSP
+  sssp_init: "Choisissez votre langue"
+  sssp_orientation: "Choisissez l'orientation de l'affichage"
+  sssp_electric: "Hors tension automatique: laissez sur Arrêt"
+  sssp_network: "L'écran va rechercher automatiquement une connexion Internet :\n Si votre écran est connecté à l’aide d’un câble RJ45, il se connectera alors automatiquement"
+  sssp_warning: "Vous ne pourrez pas installer l' application, si votre écran n'est pas relié à Internet \n \n N'utilisez pas de Wifi pour invités (ce genre de réseau n'a pas assez de permissions pour permettre un fonctionnement optimal) "
+  sssp_wifi: "Pour une connexion Wifi : sélectionnez la connexion sans fil désirée, renseignez le mot de passe puis validez"
+  sssp_cabled: "Si votre écran à une une connexion câblée avec IP fixes, le réglage se fera plus tard "
+  sssp_date: "Réglez la date et l’heure"
+  sssp_warning2: "Veuillez régler l'heure correctement, cette étape est fondamentale pour un bon fonctionnement"
+  sssp_playvia: "LECTEUR PAR DÉFAUT : Sélectionnez l’option « Lancement de l’URL »"
+  sssp_periph: "NOM DE PÉRIPHÉRIQUE : Ne pas modifier"
+  sssp_ip: "Configurer votre connexion internet avec IP Fixes. \n Appuyer sur le bouton 'Home' -> Etat du réseau -> OK \n\n Cliquez sur 'Param IP' puis entrez les données fournies par votre siège"
+  sssp_config: "=> Config IP : choisir 'Obtenir Manuellement' \n
+               => Adresse IP: fournie par votre siège \n
+               => Masque Sous Réseau: fourni par votre siège \n
+               => PAsserelle : fournie par votre siège \n
+               => Serveur DNS : fourni par votre siège \n"
+  sssp_url: "Cliquez sur le bouton Menu -> System -> Lire Via -> Lancement de l'URL -> OK"
+  sssp_install: "Cliquez sur le bouton Home -> Lancement de l'URL. Puis installez l'application web"
+  sssp_remote: "Renseignez l'URL 'http://sssp.deepidoo.com' puis validez en cliquant sur 'Terminé'"
+  sssp_code: "Composez le code fournit par Deepidoo puis pressez la touche OK (Vérifiez que l’adresse qui s’affiche corresponde bien à votre magasin avec de valider)"
+  tizen: TIZEN
+  tizen_init: "Sélectionnez votre langue"
+  tizen_orientation: "Choisissez PAYSAGE  comme orientation de l'affichage"
+  tizen_electric: "Hors Tension :  Laissez le paramètre par défaut sur Arrêt"
+  tizen_network: "L'écran va rechercher automatiquement une connexion Internet :\n Si votre écran est connecté à l’aide d’un câble RJ45, il se connectera alors automatiquement"
+  tizen_warning: "Vous ne pourrez pas installer l' application, si votre écran n'est pas relié internet \n \n Ne reliez pas votre écran à un Wifi pour invités (ce genre de réseau n'a pas assez de permissions pour permettre un fonctionnement optimal) "
+  tizen_wifi: "Pour une connexion Wifi : sélectionnez la connexion sans fil désirée, renseignez le mot de passe puis validez"
+  tizen_cabled: "Si votre écran une connexion câblée avec IP Fixes, le réglage se fera plus tard"
+  tizen_date: "Réglez la date et l’heure"
+  tizen_warning2: "Veuillez régler l'heure correctement, cette étape est fondamentale pour un bon fonctionnement"
+  tizen_playvia: "Play Via : Choose the option « URL Launcher  »"
+  tizen_remote: "Connexion au serveur distant : Choisir 'Configurer maintenant'. \n  Renseignez l'adresse remote.deepidoo.com \n Ne pas modifier les autres paramètres"
+  tizen_periph: "NOM DE PÉRIPHÉRIQUE : Ne pas modifier"
+  tizen_finish: 'Terminez la procédure'
+  tizen_config: "Pour configurer votre connexion Internet avec IP Fixes \n
+                Cliquez sur le bouton HOME de la télécommande, allez sur ETAT DU RESEAU, puis validez \n
+                Cliquez sur Param. IP, puis renseignez la configuration réseau validé avec votre siège\n \n
+               => Config IP : choisir 'Obtenir Manuellement' \n
+               => Adresse IP: fournie par votre siège \n
+               => Masque Sous Réseau: fourni par votre siège \n
+               => PAsserelle : fournie par votre siège \n
+               => Serveur DNS : fourni par votre siège \n"
+  tizen_url: "Cliquez sur le bouton Menu -> System -> Lire Via -> Lancement de l'URL -> OK"
+  tizen_install: "Cliquez sur le bouton Home -> Lancement de l'URL. Puis renseignez l'URL 'http://tizen.deepidoo.com' puis validez en cliquant sur 'Terminé' "
+  tizen_code: "Composez le code fournit par Deepidoo puis pressez la touche OK (Vérifiez que l’adresse qui s’affiche corresponde bien à votre magasin avec de valider)"

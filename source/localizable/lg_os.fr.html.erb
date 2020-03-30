@@ -1,0 +1,18 @@
+<div class="container">
+  <%= partial("partials/help", :locals => { :os => :none }) %>
+  <%= partial("partials/find_lg_os") %>
+  <div class="screens-versions">
+    <% data.lg.possible_os.each do |g| %>
+      <div class="version">
+        <div class="card" style="width: 18rem;">
+          <div class="card-body screen">
+            <%= link_to "#{g.name}", "#{g.os}.html", class:"stretched-link" %>
+          </div>
+        </div>
+      </div>
+    <% end %>
+    <div class="back-menu">
+      <a class="" href="../<%= current_local %>/lg_os.html"><%= partial 'images/icons/arrow-left-circle' %> </a>
+    </div>
+  </div>
+</div>

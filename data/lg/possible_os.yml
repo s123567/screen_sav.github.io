@@ -1,0 +1,6 @@
+- name: "WEBOS 2.xx"
+  os: webos2
+- name: "WEBOS 3.xx"
+  os: webos3
+- name: "WEBOS 4.xx"
+  os: webos4

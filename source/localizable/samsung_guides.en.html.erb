@@ -1,0 +1,26 @@
+<div class="container">
+  <div class="logo_container">
+    <%= image_tag "logo_tizen.png", class:"os_logo" %>
+  </div>
+  <div class="webos-versions">
+    <div class="card" style="width: 18rem;">
+    <div class="card-body lang-choice">
+      <a href="/fr/samsung_guides.html" class="btn btn-secondary">FR</a>
+      <a href="#" class="btn btn-secondary">EN</a>
+    </div>
+  </div>
+    <% data.samsung_guides.each do |g| %>
+      <div class="version">
+        <div class="card" style="width: 18rem;">
+          <div class="card-body os">
+            <%= link_to "#{g.version}", "#{g.link}.html", class:"stretched-link" %>
+          </div>
+        </div>
+      </div>
+    <% end %>
+    <%= partial("partials/screen_search", :locals => { :brand => :samsung }) %>
+    <div class="back-menu">
+      <a class="" href="../index.html"><%= partial 'images/icons/arrow-left-circle' %> </a>
+    </div>
+  </div>
+</div>

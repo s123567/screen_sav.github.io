@@ -1,0 +1,14 @@
+<%= partial "partials/navigation" %>
+<div class="container guide-container">
+  <%= partial("partials/samsung_help", :locals => { :os => :sssp }) %>
+  <%= partial "partials/anchors" %>
+
+  <div class="guide-content">
+    <% data.samsung.sssp.each do |s| %>
+    <div id="<%= s.anchor if s.anchor.present? %>" class="content-block <%= 'warning' if s.warning %>">
+      <%= simple_format t(s.text) %>
+      <%= image_tag s[local_img], class: "guide-picture" if s.img_fr.present?  %>
+    </div>
+    <% end %>
+  </div>
+</div>

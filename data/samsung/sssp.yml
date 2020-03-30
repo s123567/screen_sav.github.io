@@ -1,0 +1,60 @@
+- text: sssp_init
+  img_fr:  images/fr/samsung/sssp/1.jpg
+  img_en:  images/en/samsung/sssp/1.jpg
+  anchor: initialization
+
+- text: sssp_orientation
+  img_fr:  images/fr/samsung/sssp/2.jpg
+  img_en:  images/en/samsung/sssp/2.jpg
+
+- text: sssp_electric
+  img_fr:  images/fr/samsung/sssp/3.jpg
+  img_en:  images/en/samsung/sssp/3.jpg
+
+- text: sssp_network
+  img_fr:  images/fr/samsung/sssp/4.jpg
+  img_en:  images/en/samsung/sssp/4.jpg
+  anchor: network_setup
+
+- text: sssp_warning
+  warning: true
+
+- text: sssp_wifi
+  img_fr:  images/fr/samsung/sssp/5.jpg
+  img_en:  images/en/samsung/sssp/5.jpg
+- text: tizen_cabled
+
+- text: sssp_date
+  img_fr:  images/fr/samsung/sssp/6.jpg
+  img_en:  images/en/samsung/sssp/6.jpg
+
+- text: sssp_warning2
+  warning: true
+
+- text: sssp_playvia
+  img_fr:  images/fr/samsung/sssp/7.jpg
+  img_en:  images/en/samsung/sssp/7.jpg
+
+- text: sssp_periph
+  img_fr:  images/fr/samsung/sssp/8.jpg
+  img_en:  images/en/samsung/sssp/8.jpg
+
+- text: sssp_ip
+  img_fr:  images/fr/samsung/sssp/9.jpg
+  img_en:  images/en/samsung/sssp/9.jpg
+
+- text: sssp_config
+  img_fr:  images/fr/samsung/sssp/10.jpg
+  img_en:  images/en/samsung/sssp/10.jpg
+  anchor: application_install
+
+- text: sssp_url
+- text: sssp_install
+  img_fr:  images/fr/samsung/sssp/11.jpg
+  img_en:  images/en/samsung/sssp/11.jpg
+- text: sssp_remote
+  img_fr:  images/fr/samsung/sssp/12.jpg
+  img_en:  images/en/samsung/sssp/12.jpg
+- text: sssp_code
+  img_fr:  images/fr/samsung/sssp/13.jpg
+  img_en:  images/en/samsung/sssp/13.jpg

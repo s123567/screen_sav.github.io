@@ -1,0 +1,100 @@
+en:
+  compatible_screens: 'Compatible screens'
+  screen_search: "Search OS by screen"
+  screen_list: "Available Screens"
+  first_use: First use of your screen
+  network_setup: Network Configuration
+  initialization: Initialization
+  application_install: Deepidoo Application
+  back: Former Menu
+  settings_button: Settings button
+  home_button: Home button
+  webos2: WEBOS 2
+  
+  webos3: WEBOS 3
+  webos3_step1: 'Setup your language, contient, country and timezone'
+  webos3_step2: 'Select OFF regarding the two rotation choices'
+  webos3_step3: 'Setup your internet connection ethernet or Wifi'
+  webos3_warning: "You won't be able to install our application if you do not have an internet connection \n \n Do not connect your screen to a guest Wifi network: it might not have enough permission to allow for optimal functionning"
+  webos3_step4: 'If you select Wifi = select the desired network, and enter your password'
+  webos3_step5: 'Setup the screen ON and OFF timer (depending on the shop schedule)'
+  webos3_step6: 'To setup your internet connection with fixed IPs = Press SETTINGS, and head to ALL SETTINGS, then NETWORK and choose your connection type'
+  webos3_step7: 'Choosed EDIT and fill up the network data, then confirm'
+  webos3_step8: 'To access the installation menu, keep pressing the SETTINGS button until a bubble appears on the top right of the screen. Then, enter 8080 and press OK (IMPORTANT no figures will show up on the screen)'
+  webos3_step9: 'Installation Parameters : Select LOCAL for APPLICATION LAUNCH MODE, and ON for FULLY QUALIFIED DOMAIN NAME'
+  webos3_step10: "Enter the following URL 'http://webos.deepidoo.com/dj.ipk"
+  webos3_step11: "Choose IPK in APPLICATON TYPE : Launch the application by choosing REMOTE, for the parameter called LOCAL APPLICATION UPGRADE, then confirm"
+  webos3_step12: "Once the app installed, press the HOME button and select the application called DJ"
+  webos3_step13: "Enter the 4-digits code given by Deepidoo, then  press OK (Please check the address matches the shop's)"
+  webos4: WEBOS 4
+  webos4_quickstart: "Choose the QUICK START menu"
+  webos4_timesetup: "Choose your language\n
+                    Let BOTH screen rotations with the OFF setting\n
+                    IMPORTANT : Correctly setup the time"
+  webos4_network: "Press the SETTINGS button (the button with the COG), and go to the GENERAL menu, then NETWORK"
+  webos4_warning: "You won't be able to install our application if you do not have an internet connection \n \n Do not connect your screen to a guest Wifi network: it might not have enough permission to allow for optimal functionning"
+  webos4_connection_type: "Setup the desired connection type (with cable or Wifi)"
+  webos4_cable: "WITH CABLE\n
+                If you are not on a fixed IP network, you will get connected to the Internet automatically\n
+                Otherwise, enter the network details provided by your internet provider or your Head Quarters"
+  webos4_wifi: "Wifi: select the desired network and anter its passwordCONNEXION FILAIRE (RJ45)"
+  webos4_ezsettings: "Press the SETTING button, go to EZ SETTINGS and SI SERVER SETTING"
+  webos4_si_server: "Choose SI SERVER SETTING"
+  webos4_url:
+    "Adjust the following parameters \n
+    => Fully Qualified Domain Name = ON\n
+    => Enter this URL 'http://webos.deepidoo.com/dj/ipk' \n
+    => Application Launch Mode = LOCAL\n
+    => Application Type = IPK"
+  webos4_remote: "Click on REMOTE and Confirm, when asked"
+  webos4_restart: "Restart your screen with the remote control"
+  webos4_dj: "Push HOME button, find the DJ icon and press OK"
+  webos4_code: "You will be asked for a 4 digits number. Enter the number given by Deepidoo and validate ONLY if the address showing matches your shop's"
+  webos4_address: "Your shop address will be shown. Confirm by pressing 0, ONLY if it is correct. Otherwise, pease call Deepidoo. NOTE : IF needed, you can start over this process with the button STOP"
+  sssp: SSSP
+  sssp_init: "Choose your language"
+  sssp_orientation: "Choisissez your screen orientation"
+  sssp_electric: "Auto Power OFF : Let the default parameters on OFF"
+  sssp_network: "The screen will automatically search for an internet connectin:\n If your is cabled (RJ45 cable), it will conect by itself"
+  sssp_warning: "You won't be able to install our application if you do not have an internet connection \n \n Do not connect your screen to a guest Wifi network: it might not have enough permission to allow for optimal functionning"
+  sssp_wifi: "For Wifi : pick the desired network and enter the matching password"
+  sssp_cabled: "If your screen must be connected to a fxed IP cabled connection, you will set it up later"
+  sssp_date: "Correctly setup the time"
+  sssp_warning2: Do not skip this step, it is crucial to make our solution work correctly"
+  sssp_playvia: "Play Via : Choose the option « URL Launcher »"
+  sssp_periph: "Device Name : Do not change anything"
+  sssp_ip: "Set up your fixed IP connection. \n Click on the 'Home' button -> Network -> OK \n\n Click on 'Param IP' then enter the data given by your Head Quarters"
+  sssp_config: "=> IP Config : Choose 'Obtain Manually' \n
+               => IP Adress: Given by your HQ \n
+               => Network Submask: Given by your HQ \n
+               => Gateway : Given by your HQ \n
+               => DNS Server : Given by your HQ \n"
+  sssp_url: "Click on the Menu button -> System -> Read Via -> URL Launcher -> OK"
+  sssp_install: "Click on the Home button -> URL Launcher"
+  sssp_remote: "Enter the following URL 'http://sssp.deepidoo.com' and validate by clicking 'Finish'"
+  sssp_code: "Enter the code given by Deepidoo, then press OK (If the address showing on screen is your shop's)"
+  tizen: TIZEN
+  tizen_init: "Choose your language"
+  tizen_orientation: "Choose LANDSCAPE as your screen orientation"
+  tizen_electric: "Auto Power OFF : Let the default parameters on OFF"
+  tizen_network: "The screen will automatically search for an internet connectin:\n If your is cabled (RJ45 cable), it will conect by itself"
+  tizen_warning: "You won't be able to install our application if you do not have an internet connection \n \n Do not connect your screen to a guest Wifi network: it might not have enough permission to allow for optimal functionning"
+  tizen_wifi: "For Wifi : pick the desired network and enter the matching password"
+  tizen_cabled: "If your screen must be connected to a fxed IP cabled connection, you will set it up later"
+  tizen_date: "Correctly setup the time"
+  tizen_warning2: "Do not skip this step, it is crucial to make our solution work correctly"
+  tizen_playvia: "Play Via : Choose the option « URL Launcher  »"
+  tizen_remote: "Connect to Remote Server : Choose to setup now. \n Enter the address remote.deepidoo.com \n No need to change the other parameters"
+  tizen_periph: "Device Name : Do not change anything"
+  tizen_finish: "Finish this step by clicking on 'Finish'"
+  tizen_config: "Set up your fixed IP connection. \n
+                Click on the 'Home' button -> Network -> OK \n\n
+                Click on 'Param IP' then enter the data given by your Head Quarters\n
+               => IP Config : Choose 'Obtain Manually' \n
+               => IP Adress: Given by your HQ \n
+               => Network Submask: Given by your HQ \n
+               => Gateway : Given by your HQ \n
+               => DNS Server : Given by your HQ \n"
+  tizen_url: "Click on the Menu button -> System -> Read Via -> URL Launcher -> OK"
+  tizen_install: "Click on the Home button -> URL LauncherEnter the following URL 'http://tizen.deepidoo.com' and validate by clicking 'Finish'"
+  tizen_code: "Enter the code given by Deepidoo, then press OK (If the address showing on screen is your shop's)"
