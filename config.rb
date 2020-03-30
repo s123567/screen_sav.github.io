@@ -48,5 +48,5 @@ activate :deploy do |deploy|
   deploy.build_before = true
   deploy.deploy_method = :git
   deploy.branch = "master"
-  deploy.remote = "git@github.com:s123567/s123567.github.io.git"
+  deploy.remote = "git@github.com:s123567/screen_sav.github.io.git"
 end
